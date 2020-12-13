@@ -8,9 +8,8 @@ import wordsToNumbers from "words-to-numbers";
 const alankey =
   "9e2132039f2c1e2df9dcd35d5f60f7632e956eca572e1d8b807a3e2338fdd0dc/stage";
 
-const api = "d818a5599abe406fac68ee66dc419700";
+// const api = "d818a5599abe406fac68ee66dc419700";
 const alanLogoSrc =
-  // "https://ph-files.imgix.net/e61361f3-58c7-4a80-a985-d372c6a76be1.gif?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=100&h=100&fit=crop&dpr=2";
   "https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif";
 
 function App() {
