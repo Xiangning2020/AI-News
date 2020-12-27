@@ -10,7 +10,7 @@ Website is [here](https://ai-news-af2a3.web.app/). It may get slower to fetch th
 
 ### You can chat with the AI!
 
-This AI supports simple daily conversation. So you can try to say hello or ask his age.
+This AI supports simple daily conversation. So you can try to say hello or ask when it was created.
 
 ### Read it or not?
 
