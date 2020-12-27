@@ -18,7 +18,7 @@ Follow the instruction to ask the AI to open an article or read the headlines fo
 
 
 
-Thanks very much for the instruction of [JavaScript mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)and [Alan studio](https://alan.app/).
+Thanks very much for the instruction of [JavaScript mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A) and [Alan studio](https://alan.app/).
 
 ## What are the functionalities of this project?
 
